@@ -36,7 +36,7 @@
 * Ela não esta apenas relacionada a matemática mas também a ==outras ciências== e ao dia-a-dia das pessoas
 * Lógica é a arte de ==pensar bem== e ela estuda a ==correção do raciocínio==
 
-![45% center](logica-de-programacao-images/logica.jpg)
+![45% center](./images/logica.jpg)
 
 ---
 ## O que é lógica?
@@ -52,7 +52,7 @@ Exemplos de Lógica Proposicional (Matemática):
 	Todo cavalo é um mamífero
     Portanto, todo cavalo é um animal
 
-![180% center](logica-de-programacao-images/animais.png)
+![180% center](./images/animais.png)
 
 ---
 ## Lógica no dia-a-dia
@@ -82,16 +82,17 @@ Objetivo:Pegar uma caneta dentro de uma gaveta
 ==**Exemplo 3**==:
 - Pode-se utilizar da lógica para se movimentar pelos corredores de um supermercado na sequência correta para pegar os produtos sem ter que perder muito tempo.
 
-![80% center](logica-de-programacao-images/supermercado.jpg)
+![80% center](./images/supermercado.jpg)
 
 ---
 ## Lógica no dia-a-dia
 - Quando usamos o raciocínio para tomar uma decisão, buscamos sempre a saída mais lógica, ou seja, a opção que nos pareça ser a mais adequada para resolver um problema ou atingir um objetivo
 
-![80% center](logica-de-programacao-images/labirinto.png)
+![80% center](./images/labirinto.png)
 
 ---
 ## Lógica no dia-a-dia
+#### Teste seus conhecimentos
 Descreva logicamente as ações necessárias para:
 
 **a)** 	==**Trocar uma lâmpada**==
@@ -104,13 +105,13 @@ Descreva logicamente as ações necessárias para:
 
 ---
 # Lógica de Programação
-![ 80% center](logica-de-programacao-images/desktop.jpeg)
+![ 80% center](./images/desktop.jpeg)
 
 ---
 ## Lógica de programação
 - É o uso correto do pensamento lógico na programação de computadores.
 
-![ 80% center](logica-de-programacao-images/programador.jpg)
+![ 80% center](./images/programador.jpg)
 
 ---
 ## Lógica de programação
@@ -132,11 +133,7 @@ main() { printf("alô, mundo\n");}
 // Basic
 10 PRINT "alô, mundo"
 ```
-```
-// BrainFuck
-++++++++++[>+++++++>++++++++++>+++<<<-]>++.>+.+++++++
-..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.
-```
+
 ---
 ## Lógica de programação
 - O ==objetivo principal== da estudo da lógica de programação e a **construção de algoritmos coerentes e válidos**
@@ -145,13 +142,13 @@ main() { printf("alô, mundo\n");}
 ## O que é um algoritmo?
 ### É uma ==sequência finita e organizada== de passos que visam a atingir um ==objetivo bem definido==
 
-![60% center](logica-de-programacao-images/passos.jpg)
+![60% center](./images/passos.jpg)
 
 ---
 ## O que é um algoritmo?
 - Quando criamos um algoritmo
 	- Devemos especificar `ações claras` e `precisas`
-	- E é a partir de um ==estado inicial==, feitas algumas ==ações==, espera-se chegar em um ==estado final== de forma a atingir o `objetivo` pretendido.
+	- E é a partir de um ==estado inicial==, feitas algumas ==ações==, espera-se chegar em um ==estado final== de forma a atingir o `objetivo` pretendido.,
 - Um algoritmo é lido `sequencialmente`, de ==cima para baixo== e da ==direita para a esquerda==, como em um livro.
 ---
 ## O que é um algoritmo?
